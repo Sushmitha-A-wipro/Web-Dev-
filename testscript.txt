@@ -8,6 +8,7 @@ function msg(){
 </head>  
 <body>  
 <p>Welcome to Javascript</p>  
+<p>Sushmitha</p>
 <form>  
 <input type="button" value="click" onclick="msg()"/>  
 </form>  
